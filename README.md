@@ -12,6 +12,6 @@ sudo apt-get install speedtest-cli
 ```
 4. to run, go to the folder in which bashtest.sh is located and run
 ```
-sudo ./bashtest.sh
+sudo ./testServerSpeed.sh
 ```
 
